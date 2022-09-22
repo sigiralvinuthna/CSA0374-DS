@@ -1,2 +1,9 @@
 # CSA0374-DS
-matrix,Even or Odd,Factorial without recursion,fibonacci without recursion,factorial using recursion,fibonacci using recursion,Array insert,Array delete,Array display,
+matrix,
+Even or Odd,
+Factorial without recursion,
+fibonacci without recursion,
+factorial using recursion,
+fibonacci using recursion,
+Array insert,Array delete,Array display,
+Linear search,
