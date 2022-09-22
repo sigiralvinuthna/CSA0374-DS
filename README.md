@@ -1,5 +1,5 @@
 # CSA0374-DS
-matrix,
+Matrix,
 Even or Odd,
 Factorial without recursion,
 Fibonacci without recursion,
@@ -15,3 +15,4 @@ Queue operation,
 Tree traversal,
 Hashing linear,
 Inseartion sort,
+Merge sort,
