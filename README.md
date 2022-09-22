@@ -24,3 +24,4 @@ Depth first search,
 Dijkstra's algorithm,
 Prim's algorithm,
 Kruskal algorithm,
+OUTPUTS
